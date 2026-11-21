@@ -1,0 +1,50 @@
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Kotlin ###
+.kotlin/
+*.class
+
+### Gradle (if used later) ###
+.gradle/
+build/
+**/build/
+
+# Keep the Gradle wrapper if you add one.
+# Do not ignore gradle/wrapper/ or gradlew.
+
+### Eclipse ###
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### macOS ###
+.DS_Store
+
+### Logs and temporary files ###
+*.log
+*.tmp
+*.bak
+
+### Local environment files ###
+.env
+.env.*
+!.env.example
