@@ -25,6 +25,16 @@ Topics:
 
 Status: In Progress
 
+## Abstraction
+### Identifying the common characteristics and behaviors of different objects while leaving out unnecessary details.
+
+## Inheritance
+### Allowing specialized classes to reuse and extend the properties and behaviors of a parent class.
+
+
+
+## Polymorphism
+### Allowing different subclasses to provide different implementations of the same operation.
 
 ## Development Environment
 
